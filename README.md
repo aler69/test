@@ -1,6 +1,6 @@
 # InSPyReNet Background Removal Wrapper
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/InSPyReNet_Background_Removal.ipynb](https://github.com/aler69/test/blob/main/InSPyReNet%20Google%20Colab%20Notebook.ipynb))
+[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/InSPyReNet_Background_Removal.ipynb](https://github.com/aler69/test/blob/main/InSPyReNet_Google_Colab_Notebook.ipynb)](https://github.com/aler69/test/blob/main/InSPyReNet%20Google%20Colab%20Notebook.ipynb))
 
 A simple and efficient wrapper for the [InSPyReNet](https://github.com/plemeri/InSPyReNet) background removal model, optimized for Google Colab usage.
 
